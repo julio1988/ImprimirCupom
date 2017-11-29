@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/model/TableModelItemVenda.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/view/ConsultaProdutoView.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/dao/HibernateProdutoDAO.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/view/TelaDeVenda.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/excepton/ValidacaoException.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/model/TableModelProduto.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/dao/HibernateGenericDAO.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/util/Impressao.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/entidades/ItemVenda.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/dao/HibernateVendaDAO.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/dao/HibernateFestaDAO.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/entidades/Venda.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/dao/HibernateItemVendaDAO.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/view/ConsultaFestaView.java</file>
+            <file>file:/C:/Users/Julio/Documents/NetBeansProjects/ImprimirCupom/src/view/ProdutoView.java</file>
+        </group>
+    </open-files>
+</project-private>
